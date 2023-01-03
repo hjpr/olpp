@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"3fea4a5e9233672a","x":-376,"y":-1082,"width":250,"height":60,"color":"1","type":"text","text":"Posts"},
+		{"id":"3f01b1970ffecc99","x":-824,"y":-1126,"width":250,"height":60,"type":"text","text":"Thinking Critically"},
+		{"id":"eb57809a67b098c1","x":-2153,"y":-1215,"width":400,"height":103,"type":"file","file":"One Last Pizza Party/Markdown/22-12-29 The Monster of Med Errors.md"},
+		{"id":"96d5342af7a6feb4","x":-2082,"y":-1454,"width":400,"height":103,"type":"file","file":"One Last Pizza Party/Markdown/22-12-28 Drips of a Feather Flock Together.md"},
+		{"id":"21a7a285d9ec481c","x":-1670,"y":-1158,"width":400,"height":136,"type":"file","file":"One Last Pizza Party/Markdown/22-12-27 Nancy Drew - Secret of the Disappearing Pressors.md"},
+		{"id":"319adecea028424a","x":-1592,"y":-1343,"width":400,"height":98,"type":"file","file":"One Last Pizza Party/Markdown/22-12-27 Keeping Gramma's Veins Happy.md"},
+		{"id":"a6f4964c0d4a91c3","x":-1143,"y":-1215,"width":250,"height":60,"type":"text","text":"New Graduates"},
+		{"id":"9a52aa13de06d80c","x":-126,"y":-595,"width":361,"height":135,"type":"file","file":"One Last Pizza Party/Markdown/22-12-23 Mastodon - Alternative to Doomscrolling.md"},
+		{"id":"c4cd4440e9b06008","x":315,"y":-746,"width":400,"height":103,"type":"file","file":"One Last Pizza Party/Markdown/22-12-25 Mastodon - A Primer on Tooting.md"},
+		{"id":"7594154034a27239","x":-844,"y":-1501,"width":400,"height":150,"type":"file","file":"One Last Pizza Party/Markdown/22-12-23 Nursing Wisdom from an AI Chatbot.md"},
+		{"id":"bf2ddde0af1157fa","x":-651,"y":-1742,"width":400,"height":143,"type":"file","file":"One Last Pizza Party/Markdown/22-12-25 The Great Administrator Conspiracy.md"},
+		{"id":"e7f41c661d15544e","x":-871,"y":-788,"width":343,"height":94,"type":"file","file":"One Last Pizza Party/Markdown/22-12-22 SAFE Web Tool - A Prelude.md"},
+		{"id":"8847c9213aa67eb6","x":-699,"y":-602,"width":343,"height":99,"type":"file","file":"One Last Pizza Party/Markdown/22-12-22 SAFE Web Tool - Roadmap.md"},
+		{"id":"ca3e6557f696bfa8","x":-606,"y":-951,"width":250,"height":60,"type":"text","text":"SAFE Web Tool"},
+		{"id":"d8893fe705dd8f78","x":-251,"y":-921,"width":159,"height":60,"type":"text","text":"Communication"},
+		{"id":"225cc2b22a274636","x":-126,"y":-776,"width":250,"height":60,"type":"text","text":"Social Media"},
+		{"id":"b3eaf3ea319cbb92","x":-1143,"y":-981,"width":250,"height":60,"type":"text","text":"Experienced Nurses"},
+		{"id":"e0cf93595164eeb4","x":-606,"y":-1275,"width":250,"height":60,"type":"text","text":"Administration"}
+	],
+	"edges":[
+		{"id":"8eddfe05f450daf6","fromNode":"e7f41c661d15544e","fromSide":"bottom","toNode":"8847c9213aa67eb6","toSide":"top"},
+		{"id":"96b8513a8a7f3695","fromNode":"9a52aa13de06d80c","fromSide":"right","toNode":"c4cd4440e9b06008","toSide":"left"},
+		{"id":"ea221645d8d260b5","fromNode":"ca3e6557f696bfa8","fromSide":"bottom","toNode":"e7f41c661d15544e","toSide":"top"},
+		{"id":"6664d02eb4294724","fromNode":"3fea4a5e9233672a","fromSide":"bottom","toNode":"ca3e6557f696bfa8","toSide":"top"},
+		{"id":"46b389398777114e","fromNode":"3fea4a5e9233672a","fromSide":"bottom","toNode":"d8893fe705dd8f78","toSide":"top"},
+		{"id":"f95d8d7b46c39d98","fromNode":"3fea4a5e9233672a","fromSide":"left","toNode":"3f01b1970ffecc99","toSide":"right"},
+		{"id":"b3576f4d9ef2d306","fromNode":"319adecea028424a","fromSide":"bottom","toNode":"21a7a285d9ec481c","toSide":"top"},
+		{"id":"362f4c9efbec526d","fromNode":"3fea4a5e9233672a","fromSide":"left","toNode":"e0cf93595164eeb4","toSide":"bottom"},
+		{"id":"0103315b7fee951e","fromNode":"319adecea028424a","fromSide":"left","toNode":"96d5342af7a6feb4","toSide":"right"},
+		{"id":"ca9ef5aaa9651b42","fromNode":"96d5342af7a6feb4","fromSide":"bottom","toNode":"eb57809a67b098c1","toSide":"top"},
+		{"id":"30803f7d54de5506","fromNode":"e0cf93595164eeb4","fromSide":"top","toNode":"7594154034a27239","toSide":"bottom"},
+		{"id":"4eef647617e031e3","fromNode":"7594154034a27239","fromSide":"top","toNode":"bf2ddde0af1157fa","toSide":"bottom"},
+		{"id":"0f494d9b6a6863d2","fromNode":"3f01b1970ffecc99","fromSide":"left","toNode":"a6f4964c0d4a91c3","toSide":"right"},
+		{"id":"397c0fb27c00f374","fromNode":"a6f4964c0d4a91c3","fromSide":"left","toNode":"319adecea028424a","toSide":"right"},
+		{"id":"55f08655de4e2195","fromNode":"d8893fe705dd8f78","fromSide":"bottom","toNode":"225cc2b22a274636","toSide":"top"},
+		{"id":"5127d002b3116af8","fromNode":"225cc2b22a274636","fromSide":"bottom","toNode":"9a52aa13de06d80c","toSide":"top"},
+		{"id":"08ac30abb1fd5d93","fromNode":"3f01b1970ffecc99","fromSide":"left","toNode":"b3eaf3ea319cbb92","toSide":"right"}
+	]
+}
