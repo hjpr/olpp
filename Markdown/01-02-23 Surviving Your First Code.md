@@ -1,0 +1,13 @@
+Asking a newer nurse about running a code is one of those questions where you'll probably only get two kinds of responses. Some new grads will express terror at the idea of their first code, and others want to jump right in. Regardless of which personality type you are, one thing is true. Running a code proficiently isn't about memorizing the ACLS protocol. Code proficiency is based on running many codes and being comfortable with a very dynamic situation
+.
+I'm not writing this piece about running your first code well, I'm writing this piece about surviving your first code. You need to get from the start to the finish in some acceptable fashion and feel like you have the mental capacity to understand what the hell just happened, and how to improve it. Let's just get one thing out of the way...
+
+### You are going to suck on your first code.
+
+Read it, internalize it, feel it. Whatever ego you have about being a competent nurse needs to go out the window and be replaced with a healthy dose of respect for the people around you who will fly in seemingly from thin air to pull you from the quagmire. The 20-year veteran super-ICU nurse who is an effortless director is incredible because they understand the flow of a code. It's a controlled chaos that isn't tamed unless you're comfortable in the thick of it, and there's no substitute for repetition. The ACLS algorithms play their part of knowing what to do, but the best codes are the ones which flow. Just get it through your head that the only people who will ever judge you for running a rough code are other less experienced nurses who don't have much confidence in their own code skills.
+
+### Setting up for success.
+
+I use this phrase often because it's integral to my own nursing practice. Preparing for a code starts at shift change. Knowing code status is a "no duh" moment, but sometimes those preferences can get complicated. Some patients are okay with intubation but nothing else. Some patients want cardioversion but no defibrillation. Having a report sheet with the specifics written down in a place where you can access that info quickly is a big help.
+
+When I do my first shift assessment, part of what I look at is the condition of equipment - including room. Have you ever seen a room after a code? Imagine what working in a messy room is going to feel like when there aren't clean/organized surfaces to put things down on. How about your lines? If you need to push a med, are your lines labeled?
